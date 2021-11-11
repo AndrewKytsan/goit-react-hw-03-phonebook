@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px rgba(56, 54, 54, 0.3);
+    background-color: blanchedalmond;
+}
+
+.mainTitle {
+    color: rgb(65, 40, 2);
+}
